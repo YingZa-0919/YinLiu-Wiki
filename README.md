@@ -10,17 +10,21 @@
 
 ### 加入游戏
 
-> &#x20;服务器版本： **`1.18 - 1.18.2`**&#x20;
->
-> 服务器直连IP： **`yinliu.mcbx.top`**
+{% hint style="info" %}
+服务器版本： **`1.18 - 1.18.2`**&#x20;
+
+服务器直连IP： **`yinliu.mcbx.top`**
+{% endhint %}
 
 ### 交流中心
 
-> 服务器官网： [**www.mcbx.top**](https://www.mcbx.top/)
->
-> 服务器交流群： [**864843803**](https://jq.qq.com/?\_wv=1027\&k=mET5fRbs)
->
-> 服务器Kook： [**点击进入服务器KOOK**](https://kook.top/W8u99D)
+{% hint style="info" %}
+服务器官网： [**www.mcbx.top**](https://www.mcbx.top/)
+
+服务器交流群： [**864843803**](https://jq.qq.com/?\_wv=1027\&k=mET5fRbs)
+
+服务器Kook： [**点击进入服务器KOOK**](https://kook.top/W8u99D)
+{% endhint %}
 
 `KooK是类似QQ群聊的一种交流开黑中心，网页、软件都可使用，非常方便`
 
