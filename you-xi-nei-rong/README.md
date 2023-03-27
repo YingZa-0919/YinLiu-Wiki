@@ -14,10 +14,10 @@
 [yu-le-xi-tong](yu-le-xi-tong/)
 {% endcontent-ref %}
 
-{% content-ref url="zhan-dou-xi-tong.md" %}
-[zhan-dou-xi-tong.md](zhan-dou-xi-tong.md)
+{% content-ref url="zhan-dou-xi-tong/" %}
+[zhan-dou-xi-tong](zhan-dou-xi-tong/)
 {% endcontent-ref %}
 
-{% content-ref url="xiao-mai-bu.md" %}
-[xiao-mai-bu.md](xiao-mai-bu.md)
+{% content-ref url="xiao-mai-bu/" %}
+[xiao-mai-bu](xiao-mai-bu/)
 {% endcontent-ref %}
