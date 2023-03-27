@@ -6,3 +6,5 @@
 * [📕 游戏内容](you-xi-nei-rong/README.md)
   * [🔰 身份系统](you-xi-nei-rong/shen-fen-xi-tong.md)
   * [💰 经济系统](you-xi-nei-rong/jing-ji-xi-tong.md)
+  * [🔫 娱乐系统](you-xi-nei-rong/yu-le-xi-tong/README.md)
+    * [💳 个人称号](you-xi-nei-rong/yu-le-xi-tong/ge-ren-cheng-hao.md)
