@@ -9,3 +9,7 @@
 {% content-ref url="jing-ji-xi-tong.md" %}
 [jing-ji-xi-tong.md](jing-ji-xi-tong.md)
 {% endcontent-ref %}
+
+{% content-ref url="yu-le-xi-tong/" %}
+[yu-le-xi-tong](yu-le-xi-tong/)
+{% endcontent-ref %}
