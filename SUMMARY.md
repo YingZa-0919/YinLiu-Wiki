@@ -42,7 +42,7 @@
 * [🏢 公共建筑](gong-gong-jian-zhu.md)
 * [📒 更新日志](geng-xin-ri-zhi/README.md)
   * [2023.03月更新日志](geng-xin-ri-zhi/2023.03-yue-geng-xin-ri-zhi/README.md)
-    * [🧾 3.26日更新日志 ( v1.2.9 )](geng-xin-ri-zhi/2023.03-yue-geng-xin-ri-zhi/3.26-ri-geng-xin-ri-zhi-v1.2.9.md)
+    * [🧾 3.27日更新日志 ( v1.2.9 )](geng-xin-ri-zhi/2023.03-yue-geng-xin-ri-zhi/3.26-ri-geng-xin-ri-zhi-v1.2.9.md)
     * [🧾 3.25日更新日志 ( v1.2.8 )](geng-xin-ri-zhi/2023.03-yue-geng-xin-ri-zhi/3.25-ri-geng-xin-ri-zhi-v1.2.8.md)
     * [🧾 3.23日更新日志 ( v1.2.7 )](geng-xin-ri-zhi/2023.03-yue-geng-xin-ri-zhi/3.23-ri-geng-xin-ri-zhi-v1.2.7.md)
     * [🧾 3.20日更新日志 ( v1.2.6 )](geng-xin-ri-zhi/2023.03-yue-geng-xin-ri-zhi/3.20-ri-geng-xin-ri-zhi-v1.2.6.md)
