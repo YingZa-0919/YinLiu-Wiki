@@ -21,7 +21,7 @@
     * [⏹ 领地](you-xi-nei-rong/yu-le-xi-tong/ling-di.md)
     * [🌻 自动肥料机](you-xi-nei-rong/yu-le-xi-tong/zi-dong-fei-liao-ji.md)
     * [🩹 物品认主](you-xi-nei-rong/yu-le-xi-tong/wu-pin-ren-zhu.md)
-    * [🏳🌈 🏳🌈 社区传送](you-xi-nei-rong/yu-le-xi-tong/she-qu-chuan-song.md)
+    * [🏳🌈 社区传送](you-xi-nei-rong/yu-le-xi-tong/she-qu-chuan-song.md)
     * [🎰 超级漏斗](you-xi-nei-rong/yu-le-xi-tong/chao-ji-lou-dou.md)
     * [🎏 铭牌](you-xi-nei-rong/yu-le-xi-tong/ming-pai.md)
     * [🥩 烹饪](you-xi-nei-rong/yu-le-xi-tong/peng-ren.md)

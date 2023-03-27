@@ -22,3 +22,39 @@
 [nong-zuo-wu](nong-zuo-wu/)
 {% endcontent-ref %}
 
+{% content-ref url="jiang-tai-gong.md" %}
+[jiang-tai-gong.md](jiang-tai-gong.md)
+{% endcontent-ref %}
+
+{% content-ref url="ling-di.md" %}
+[ling-di.md](ling-di.md)
+{% endcontent-ref %}
+
+{% content-ref url="zi-dong-fei-liao-ji.md" %}
+[zi-dong-fei-liao-ji.md](zi-dong-fei-liao-ji.md)
+{% endcontent-ref %}
+
+{% content-ref url="wu-pin-ren-zhu.md" %}
+[wu-pin-ren-zhu.md](wu-pin-ren-zhu.md)
+{% endcontent-ref %}
+
+{% content-ref url="she-qu-chuan-song.md" %}
+[she-qu-chuan-song.md](she-qu-chuan-song.md)
+{% endcontent-ref %}
+
+{% content-ref url="chao-ji-lou-dou.md" %}
+[chao-ji-lou-dou.md](chao-ji-lou-dou.md)
+{% endcontent-ref %}
+
+{% content-ref url="ming-pai.md" %}
+[ming-pai.md](ming-pai.md)
+{% endcontent-ref %}
+
+{% content-ref url="peng-ren.md" %}
+[peng-ren.md](peng-ren.md)
+{% endcontent-ref %}
+
+{% content-ref url="qing-ren-huo-jian.md" %}
+[qing-ren-huo-jian.md](qing-ren-huo-jian.md)
+{% endcontent-ref %}
+
