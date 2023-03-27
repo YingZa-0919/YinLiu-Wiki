@@ -25,9 +25,7 @@
 ![nplayer.png](https://sjwx.easydoc.xyz/95040344/files/lfnpa8st.png) >
 
 {% tabs %}
-{% tab title="First Tab" %}
-权限 >
-
+{% tab title="权限 >" %}
 1、资源世界地图解锁
 
 2、身份称号 ![nplayer.png](https://sjwx.easydoc.xyz/95040344/files/lfnpa8st.png)
