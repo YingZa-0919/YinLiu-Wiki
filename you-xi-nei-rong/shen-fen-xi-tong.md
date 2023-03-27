@@ -22,7 +22,7 @@
 
 *
 
-    ![nplayer.png](https://sjwx.easydoc.xyz/95040344/files/lfnpa8st.png)
+    ![](https://sjwx.easydoc.xyz/95040344/files/lfnpa8st.png)
 
     * 资源地图解锁
     * 瘾流宝店>小金库解锁
@@ -33,7 +33,7 @@
     * /money 查看金币
 *
 
-    ![player.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9z7d.png)
+    ![](https://sjwx.easydoc.xyz/95040344/files/lfnp9z7d.png)
 
     * 所有地图传送点解锁
     * 菜单所有按钮解锁
@@ -48,7 +48,7 @@
     * 可设置社区传送点：1个
 *
 
-    ![rank1.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9psf.png)
+    ![](https://sjwx.easydoc.xyz/95040344/files/lfnp9psf.png)
 
     * 继承 ![player.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9z7d.png) 身份所有权限，并再次基础上拥有额外权限
     * 身份称号 ![rank1.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9psf.png)
@@ -60,7 +60,7 @@
     * 可设置社区传送点：2个
 *
 
-    ![rank2.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9fzu.png)
+    ![](https://sjwx.easydoc.xyz/95040344/files/lfnp9fzu.png)
 
     * 继承 ![rank1.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9psf.png) 身份所有权限，并再次基础上拥有额外权限
     * 身份称号 ![rank2.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9fzu.png)
@@ -72,7 +72,7 @@
     * 可设置社区传送点：3个
 *
 
-    ![rank3.png](https://sjwx.easydoc.xyz/95040344/files/lfnp96h2.png)
+    ![](https://sjwx.easydoc.xyz/95040344/files/lfnp96h2.png)
 
     * 继承 ![rank2.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9fzu.png) 身份所有权限，并再次基础上拥有额外权限
     * 身份称号 ![rank3.png](https://sjwx.easydoc.xyz/95040344/files/lfnp96h2.png)
@@ -84,7 +84,7 @@
     * 可设置社区传送点：4个
 *
 
-    ![rank4.png](https://sjwx.easydoc.xyz/95040344/files/lfnp8wjh.png)
+    ![](https://sjwx.easydoc.xyz/95040344/files/lfnp8wjh.png)
 
     * 继承 ![rank3.png](https://sjwx.easydoc.xyz/95040344/files/lfnp96h2.png) 身份所有权限，并再次基础上拥有额外权限
     * 身份称号 ![rank4.png](https://sjwx.easydoc.xyz/95040344/files/lfnp8wjh.png)
@@ -97,7 +97,7 @@
     * 可使用 `/hat` 指令
 *
 
-    ![rank5.png](https://sjwx.easydoc.xyz/95040344/files/lfnp7tvv.png)
+    ![](https://sjwx.easydoc.xyz/95040344/files/lfnp7tvv.png)
 
     * 继承 ![rank4.png](https://sjwx.easydoc.xyz/95040344/files/lfnp8wjh.png) 身份所有权限，并再次基础上拥有额外权限
     * 身份称号 ![rank5.png](https://sjwx.easydoc.xyz/95040344/files/lfnp7tvv.png)
@@ -109,7 +109,7 @@
     * 可设置社区传送点：6个
 *
 
-    ![rank6.png](https://sjwx.easydoc.xyz/95040344/files/lfnozsil.png)
+    ![](https://sjwx.easydoc.xyz/95040344/files/lfnozsil.png)
 
     * 继承 ![rank5.png](https://sjwx.easydoc.xyz/95040344/files/lfnp7tvv.png) 身份所有权限，并再次基础上拥有额外权限
     * 身份称号 ![rank6.png](https://sjwx.easydoc.xyz/95040344/files/lfnozsil.png)
