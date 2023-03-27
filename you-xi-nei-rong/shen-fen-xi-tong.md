@@ -25,38 +25,22 @@
 ![nplayer.png](https://sjwx.easydoc.xyz/95040344/files/lfnpa8st.png) >
 
 {% tabs %}
-{% tab title="权限 >" %}
+{% tab title="权限 " %}
 1、资源世界地图解锁
 
 2、身份称号 ![nplayer.png](https://sjwx.easydoc.xyz/95040344/files/lfnpa8st.png)
+{% endtab %}
 
-3、/suicide 自杀
+{% tab title="指令" %}
+1、/suicide 自杀
 
-4、/back 返回上一地点
+2、/back 返回上一地点
 
-5、/spawn 回到主城
+3、/spawn 回到主城
 
-6、/money 查看金币
+4、/money 查看金币
 {% endtab %}
 {% endtabs %}
-
-<details>
-
-<summary>权限</summary>
-
-1、资源世界地图解锁
-
-2、身份称号 ![nplayer.png](https://sjwx.easydoc.xyz/95040344/files/lfnpa8st.png)
-
-3、/suicide 自杀
-
-4、/back 返回上一地点
-
-5、/spawn 回到主城
-
-6、/money 查看金币
-
-</details>
 
 
 
