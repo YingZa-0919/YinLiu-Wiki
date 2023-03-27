@@ -44,105 +44,193 @@
 
 
 
-资源地图解锁
+![player.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9z7d.png)
 
-* 瘾流宝店>小金库解锁
-* 身份称号 ![nplayer.png](https://sjwx.easydoc.xyz/95040344/files/lfnpa8st.png)
-* /suicide 自杀
-* /back 返回上一地点
-* /spawn 回到主城
-* /money 查看金币
-*
+{% tabs %}
+{% tab title="权限" %}
+1、菜单所有按钮解锁
 
-    ![](https://sjwx.easydoc.xyz/95040344/files/lfnp9z7d.png)
+2、基础指令解锁
 
-    * 所有地图传送点解锁
-    * 菜单所有按钮解锁
-    * 基础指令全解
-    * 身份称号 ![player.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9z7d.png)
-    * 领地大小：110x256x110
-    * 领地价格：0.6元/格
-    * 领地数量：1个
-    * 家的数量：1个
-    * 空中花园数量：1个
-    * 环球市场物品上架限制：10个
-    * 可设置社区传送点：1个
-*
+3、身份称号 ![player.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9z7d.png)
 
-    ![](https://sjwx.easydoc.xyz/95040344/files/lfnp9psf.png)
+4、领地大小: 110 x 256 x 110
 
-    * 继承 ![player.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9z7d.png) 身份所有权限，并再次基础上拥有额外权限
-    * 身份称号 ![rank1.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9psf.png)
-    * 领地大小：130x256x130
-    * 领地价格：0.5元/格
-    * 领地数量：2个
-    * 家的数量：2个
-    * 环球市场物品上架限制：20个
-    * 可设置社区传送点：2个
-*
+5、领地单价: 0.6元/格
 
-    ![](https://sjwx.easydoc.xyz/95040344/files/lfnp9fzu.png)
+6、领地上限: 1个
 
-    * 继承 ![rank1.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9psf.png) 身份所有权限，并再次基础上拥有额外权限
-    * 身份称号 ![rank2.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9fzu.png)
-    * 领地大小：150x256x150
-    * 领地价格：0.4元/格
-    * 领地数量：3个
-    * 家的数量：3个
-    * 环球市场物品上架限制：30个
-    * 可设置社区传送点：3个
-*
+7、设置家数量: 1个
 
-    ![](https://sjwx.easydoc.xyz/95040344/files/lfnp96h2.png)
+8、空中花园上限: 1个
 
-    * 继承 ![rank2.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9fzu.png) 身份所有权限，并再次基础上拥有额外权限
-    * 身份称号 ![rank3.png](https://sjwx.easydoc.xyz/95040344/files/lfnp96h2.png)
-    * 领地大小：170x256x170
-    * 领地价格：0.3元/格
-    * 领地数量：4个
-    * 家的数量：4个
-    * 环球市场物品上架限制：40个
-    * 可设置社区传送点：4个
-*
+9、环球市场上架限制: 10个
 
-    ![](https://sjwx.easydoc.xyz/95040344/files/lfnp8wjh.png)
+10、社区传送点限制: 1个
+{% endtab %}
+{% endtabs %}
 
-    * 继承 ![rank3.png](https://sjwx.easydoc.xyz/95040344/files/lfnp96h2.png) 身份所有权限，并再次基础上拥有额外权限
-    * 身份称号 ![rank4.png](https://sjwx.easydoc.xyz/95040344/files/lfnp8wjh.png)
-    * 领地大小：190x256x190
-    * 领地价格：0.25元/格
-    * 领地数量：5个
-    * 家的数量：5个
-    * 环球市场物品上架限制：50个
-    * 可设置社区传送点：5个
-    * 可使用 `/hat` 指令
-*
 
-    ![](https://sjwx.easydoc.xyz/95040344/files/lfnp7tvv.png)
 
-    * 继承 ![rank4.png](https://sjwx.easydoc.xyz/95040344/files/lfnp8wjh.png) 身份所有权限，并再次基础上拥有额外权限
-    * 身份称号 ![rank5.png](https://sjwx.easydoc.xyz/95040344/files/lfnp7tvv.png)
-    * 领地大小：170x256x170
-    * 领地价格：0.2元/格
-    * 领地数量：6个
-    * 家的数量：6个
-    * 环球市场物品上架限制：60个
-    * 可设置社区传送点：6个
-*
+<figure><img src="https://sjwx.easydoc.xyz/95040344/files/lfnp9psf.png" alt=""><figcaption><p>小有姿色.e</p></figcaption></figure>
 
-    ![](https://sjwx.easydoc.xyz/95040344/files/lfnozsil.png)
+{% tabs %}
+{% tab title="权限" %}
+1、继承身份: ![player.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9z7d.png)
 
-    * 继承 ![rank5.png](https://sjwx.easydoc.xyz/95040344/files/lfnp7tvv.png) 身份所有权限，并再次基础上拥有额外权限
-    * 身份称号 ![rank6.png](https://sjwx.easydoc.xyz/95040344/files/lfnozsil.png)
-    * 领地大小：250x256x250
-    * 领地价格：0.15元/格
-    * 领地数量：7个
-    * 家的数量：7个
-    * 开放空中花园购买权限
-    * 环球市场物品上架限制：70个
-    * 可设置社区传送点：7个
+2、身份称号: ![rank1.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9psf.png)
 
-***
+3、领地大小: 130 x 256 x 130
+
+4、领地单价: 0.5元/格
+
+5、领地上限: 2个
+
+6、设置家数量: 2个
+
+7、空中花园上限: 1个
+
+8、环球市场上架限制: 20个
+
+9、社区传送点限制: 2个
+{% endtab %}
+{% endtabs %}
+
+
+
+<figure><img src="https://sjwx.easydoc.xyz/95040344/files/lfnp9fzu.png" alt=""><figcaption><p>小有姿色.e</p></figcaption></figure>
+
+{% tabs %}
+{% tab title="权限" %}
+1、继承身份: ![rank1.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9psf.png)
+
+2、身份称号: ![rank2.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9fzu.png)
+
+3、领地大小: 150 x 256 x 150
+
+4、领地单价: 0.4元/格
+
+5、领地上限: 3个
+
+6、设置家数量: 3个
+
+7、空中花园上限: 1个
+
+8、环球市场上架限制: 30个
+
+9、社区传送点限制: 3个
+{% endtab %}
+{% endtabs %}
+
+
+
+<figure><img src="https://sjwx.easydoc.xyz/95040344/files/lfnp96h2.png" alt=""><figcaption><p>小有姿色.e</p></figcaption></figure>
+
+{% tabs %}
+{% tab title="权限" %}
+1、继承身份: ![rank2.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9fzu.png)
+
+2、身份称号: ![rank3.png](https://sjwx.easydoc.xyz/95040344/files/lfnp96h2.png)
+
+3、领地大小: 170 x 256 x 170
+
+4、领地单价: 0.3元/格
+
+5、领地上限: 4个
+
+6、设置家数量: 4个
+
+7、空中花园上限: 1个
+
+8、环球市场上架限制: 40个
+
+9、社区传送点限制: 4个
+{% endtab %}
+{% endtabs %}
+
+
+
+<figure><img src="https://sjwx.easydoc.xyz/95040344/files/lfnp8wjh.png" alt=""><figcaption><p>小有姿色.e</p></figcaption></figure>
+
+{% tabs %}
+{% tab title="权限" %}
+1、继承身份: ![rank3.png](https://sjwx.easydoc.xyz/95040344/files/lfnp96h2.png)
+
+2、身份称号: ![rank4.png](https://sjwx.easydoc.xyz/95040344/files/lfnp8wjh.png)
+
+3、领地大小: 190 x 256 x 190
+
+4、领地单价: 0.25元/格
+
+5、领地上限: 5个
+
+6、设置家数量: 5个
+
+7、空中花园上限: 1个
+
+8、环球市场上架限制: 50个
+
+9、社区传送点限制: 5个
+{% endtab %}
+
+{% tab title="指令" %}
+1、/hat 将当前手持物品佩戴为帽子
+{% endtab %}
+{% endtabs %}
+
+
+
+<figure><img src="https://sjwx.easydoc.xyz/95040344/files/lfnp7tvv.png" alt=""><figcaption><p>小有姿色.e</p></figcaption></figure>
+
+{% tabs %}
+{% tab title="权限" %}
+1、继承身份: ![rank4.png](https://sjwx.easydoc.xyz/95040344/files/lfnp8wjh.png)
+
+2、身份称号: ![rank5.png](https://sjwx.easydoc.xyz/95040344/files/lfnp7tvv.png)
+
+3、领地大小: 220 x 256 x 220
+
+4、领地单价: 0.2元/格
+
+5、领地上限: 6个
+
+6、设置家数量: 6个
+
+7、空中花园上限: 1个
+
+8、环球市场上架限制: 60个
+
+9、社区传送点限制: 6个
+{% endtab %}
+{% endtabs %}
+
+
+
+<figure><img src="https://sjwx.easydoc.xyz/95040344/files/lfnozsil.png" alt=""><figcaption><p>小有姿色.e</p></figcaption></figure>
+
+{% tabs %}
+{% tab title="权限" %}
+1、继承身份: ![rank5.png](https://sjwx.easydoc.xyz/95040344/files/lfnp7tvv.png)
+
+2、身份称号: ![rank6.png](https://sjwx.easydoc.xyz/95040344/files/lfnozsil.png)
+
+3、领地大小: 250 x 256 x 250
+
+4、领地单价: 0.15元/格
+
+5、领地上限: 7个
+
+6、设置家数量: 7个
+
+7、空中花园上限: 2个
+
+8、环球市场上架限制: 70个
+
+9、社区传送点限制: 7个
+{% endtab %}
+{% endtabs %}
+
+
 
 ### 如何升级身份？
 
