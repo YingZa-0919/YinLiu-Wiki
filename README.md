@@ -32,6 +32,6 @@
 
 ### 📔 最新公告
 
-{% content-ref url="geng-xin-ri-zhi/2023.03-yue-geng-xin-ri-zhi/3.26-ri-geng-xin-ri-zhi-v1.2.9.md" %}
-[3.26-ri-geng-xin-ri-zhi-v1.2.9.md](geng-xin-ri-zhi/2023.03-yue-geng-xin-ri-zhi/3.26-ri-geng-xin-ri-zhi-v1.2.9.md)
+{% content-ref url="geng-xin-ri-zhi/2023.03-yue-geng-xin-ri-zhi/3.28-ri-geng-xin-ri-zhi-v1.3.0.md" %}
+[3.28-ri-geng-xin-ri-zhi-v1.3.0.md](geng-xin-ri-zhi/2023.03-yue-geng-xin-ri-zhi/3.28-ri-geng-xin-ri-zhi-v1.3.0.md)
 {% endcontent-ref %}
