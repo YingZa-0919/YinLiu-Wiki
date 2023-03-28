@@ -8,4 +8,4 @@
 
 在游戏中聊天框输入 **`/tags`** 可以打开个人称号的界面哦，在这个页面你可以查看、佩戴或者取下你的称号。
 
-![](https://sjwx.easydoc.xyz/95040344/files/lbc1zns3.png)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
