@@ -72,13 +72,13 @@
 
 
 
-<figure><img src="https://sjwx.easydoc.xyz/95040344/files/lfnp9psf.png" alt=""><figcaption><p>rank1.png</p></figcaption></figure>
+![](<../.gitbook/assets/rank1 (1).png>)
 
 {% tabs %}
 {% tab title="权限" %}
 1、继承身份: ![player.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9z7d.png)
 
-2、身份称号: ![rank1.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9psf.png)
+2、身份称号: ![](<../.gitbook/assets/rank1 (1).png>)
 
 3、领地大小: 130 x 256 x 130
 
@@ -98,13 +98,13 @@
 
 
 
-<figure><img src="https://sjwx.easydoc.xyz/95040344/files/lfnp9fzu.png" alt=""><figcaption><p>rank2.png</p></figcaption></figure>
+![](../.gitbook/assets/rank2.png)
 
 {% tabs %}
 {% tab title="权限" %}
-1、继承身份: ![rank1.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9psf.png)
+1、继承身份: ![](<../.gitbook/assets/rank1 (1).png>)
 
-2、身份称号: ![rank2.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9fzu.png)
+2、身份称号: ![](../.gitbook/assets/rank2.png)
 
 3、领地大小: 150 x 256 x 150
 
@@ -124,13 +124,13 @@
 
 
 
-<figure><img src="https://sjwx.easydoc.xyz/95040344/files/lfnp96h2.png" alt=""><figcaption><p>rank3.png</p></figcaption></figure>
+![](../.gitbook/assets/rank3.png)
 
 {% tabs %}
 {% tab title="权限" %}
-1、继承身份: ![rank2.png](https://sjwx.easydoc.xyz/95040344/files/lfnp9fzu.png)
+1、继承身份: ![](../.gitbook/assets/rank2.png)
 
-2、身份称号: ![rank3.png](https://sjwx.easydoc.xyz/95040344/files/lfnp96h2.png)
+2、身份称号: ![](<../.gitbook/assets/rank3 (1).png>)
 
 3、领地大小: 170 x 256 x 170
 
@@ -150,13 +150,13 @@
 
 
 
-<figure><img src="https://sjwx.easydoc.xyz/95040344/files/lfnp8wjh.png" alt=""><figcaption><p>rank4.png</p></figcaption></figure>
+![](<../.gitbook/assets/rank4 (1).png>)
 
 {% tabs %}
 {% tab title="权限" %}
-1、继承身份: ![rank3.png](https://sjwx.easydoc.xyz/95040344/files/lfnp96h2.png)
+1、继承身份: ![](<../.gitbook/assets/rank3 (1).png>)
 
-2、身份称号: ![rank4.png](https://sjwx.easydoc.xyz/95040344/files/lfnp8wjh.png)
+2、身份称号: ![](<../.gitbook/assets/rank4 (1).png>)
 
 3、领地大小: 190 x 256 x 190
 
@@ -180,13 +180,13 @@
 
 
 
-<figure><img src="https://sjwx.easydoc.xyz/95040344/files/lfnp7tvv.png" alt=""><figcaption><p>rank5.png</p></figcaption></figure>
+![](../.gitbook/assets/rank5.png)
 
 {% tabs %}
 {% tab title="权限" %}
-1、继承身份: ![rank4.png](https://sjwx.easydoc.xyz/95040344/files/lfnp8wjh.png)
+1、继承身份: ![](<../.gitbook/assets/rank4 (1).png>)
 
-2、身份称号: ![rank5.png](https://sjwx.easydoc.xyz/95040344/files/lfnp7tvv.png)
+2、身份称号: ![](../.gitbook/assets/rank5.png)
 
 3、领地大小: 220 x 256 x 220
 
@@ -206,13 +206,13 @@
 
 
 
-<figure><img src="https://sjwx.easydoc.xyz/95040344/files/lfnozsil.png" alt=""><figcaption><p>rank6.png</p></figcaption></figure>
+![](../.gitbook/assets/rank6.png)
 
 {% tabs %}
 {% tab title="权限" %}
-1、继承身份: ![rank5.png](https://sjwx.easydoc.xyz/95040344/files/lfnp7tvv.png)
+1、继承身份: ![](../.gitbook/assets/rank5.png)
 
-2、身份称号: ![rank6.png](https://sjwx.easydoc.xyz/95040344/files/lfnozsil.png)
+2、身份称号: ![](<../.gitbook/assets/rank6 (1).png>)
 
 3、领地大小: 250 x 256 x 250
 

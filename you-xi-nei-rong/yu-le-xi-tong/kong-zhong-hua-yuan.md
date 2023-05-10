@@ -16,7 +16,7 @@ description: 空中花园是一个纯净的世界，这里不会生成生物，�
 
 您可以通过在游戏中输入指令 `/plot home` 进入您的空中花园，也可以通过服务器的菜单进入空中花园功能界面进入您的空中花园。
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 相关指令
 
