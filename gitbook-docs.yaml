@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: YinLiu-WIKI
+  structure:
+    - type: space
+      key: space-1
+      title: YinLiu-WIKI
+      path: wiki
+      default: true
+      content:
+        directory: ./wiki
